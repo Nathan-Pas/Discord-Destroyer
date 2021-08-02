@@ -26,4 +26,4 @@ print("Lancement du BOT....")
 print("Connection au serveur ....")
 print("Tappez !destroy pour spammer le serveur discord")
 bot.run(token)
-
+# https://pastebin.com/raw/tiCaqXmD
